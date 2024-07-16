@@ -48,11 +48,12 @@ The default for this program is an entirely randomized NPC, with a full, 10-11 p
             attributes: "highstr", "highdex", "highcon", "highint", "highwis", "highcha",
                         "lowstr", "lowdex", "lowcon", "lowint", "lowwis", "lowcha"
 2.) How to exit the program:
-    a.) Press CTRL-C
+
+    a.) Press CTRL + C
     b.) If you would like to run the program more than once quickly, press the up arrow on your keyboard.
 
 
-2.) What's included in an NPC description:
+3.) What's included in an NPC description:
 
     Basic: (name and race, appearance, highest/lowest attribute, how they
             interact with the world around them)
@@ -63,7 +64,7 @@ The default for this program is an entirely randomized NPC, with a full, 10-11 p
 
 
 
-3.) Future Goals:
+4.) Future Goals:
 
     More NPC Customization options!:
         Plans include:
