@@ -47,6 +47,9 @@ The default for this program is an entirely randomized NPC, with a full, 10-11 p
             lifestyles: "modest", "comfortable", "wealthy", "aristocratic", "monsterous"
             attributes: "highstr", "highdex", "highcon", "highint", "highwis", "highcha",
                         "lowstr", "lowdex", "lowcon", "lowint", "lowwis", "lowcha"
+2.) How to exit the program:
+    a.) Press CTRL-C
+    b.) If you would like to run the program more than once quickly, press the up arrow on your keyboard.
 
 
 2.) What's included in an NPC description:
