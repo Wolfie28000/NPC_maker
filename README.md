@@ -31,6 +31,7 @@ The included source materials are:
 The default for this program is an entirely randomized NPC, with a full, 10-11 part description.
 
 1.) How to run the program:
+    
     From the Command Line Interface (CLI):
         a.) Get into the program by typing: cd NPC_maker
         b.) Run the program by typing: python npc_maker.py
