@@ -8,7 +8,7 @@ from knowledge import get_know_UI, get_useful_knowledge
 from mannerisms import get_mannerism_UI, get_mannerism
 from name_maker import get_name_UI, get_random_name
 from talents import get_talent_UI, get_talent
-from bigboy import convert_text_to_int
+from number_strings import convert_text_to_int
 import re
 import random
 
