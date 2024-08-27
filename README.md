@@ -51,13 +51,17 @@ The default for this program is an entirely randomized NPC, with a full, 10-11 p
                             "lowstr", "lowdex", "lowcon", "lowint", "lowwis", "lowcha"
                             
     From the User Interface (UI):
-
-        
         a.) Get into the program by replacing the '.com' with '.dev' to open the program in your web-browser
         b.) Navigate to the file titled 'npc_ui.py'
-        c.) Run the program by either pressing the 'play' button (the small triangle in the top right corner of the
-            area with the open files) or by typing 'python npc_ui.py' and pressing enter.
-        d.) Follow the prompts on screen.
+        c.) Open a terminal by pressing CTRL and ` (the button right above Tab/below Escape)
+        d.) Click Continue Working in GitHub Codespaces
+        e.) Select the 2 cores option, if present
+        f.) Install Python into your codespace if this is your first time using the program
+        g.) Return to the npc_ui.py file by closing the 'Extension: Python' page, or by selecting the file in the 'explorer'
+            section (it looks like two pieces of paper, above the magnifying glass).
+        h.) Run the program by typing 'python npc_ui.py' into the terminal and pressing enter, or by clicking the
+            triangle button on the top right section of your screen.
+        i.) Follow the prompts on screen.
 
 2.) How to exit the program:
 
